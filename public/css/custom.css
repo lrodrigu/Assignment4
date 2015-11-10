@@ -1,0 +1,30 @@
+.container{
+	height: 100vh;
+}
+
+#background: {
+	margin: auto 0pt;
+}
+
+#banner{
+	height: 150px;
+	background: #fafafa;
+}
+
+#nav{
+	height: 60px;
+}
+
+#mainArea{
+	min-height: 50vh;
+}
+
+#main{
+}
+
+#sidebar{
+}
+
+#footer{
+	height: 50px;
+}

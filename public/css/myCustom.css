@@ -1,0 +1,149 @@
+body{
+	background-color: #fafafa;
+}
+
+#firstbar{
+	height: 80px;
+	line-height: 80px;
+	background: #5cb85c;
+	font-size: 13pt;
+	font-family: "Calibri";
+	color:white;
+	text-indent: 20px;
+	letter-spacing: 2px;
+}
+
+.nyc{
+	font-size: 22pt;
+	font-family: "Trebuchet MS";
+}
+
+#line{
+	height: 3px;
+	background: gray;
+}
+
+#navbuttons{
+	background: #fafafa;
+	padding-top:.5%;
+	padding-bottom: .5%;
+	text-align: center;
+	font-family: "Trebuchet MS";
+	font-size: 14pt;
+	color:gray;
+	font-weight: bold;
+	border-radius: 10px;
+	width: 33%;
+}
+
+#donate{
+	background: #243340;
+	text-align: center;
+	font-family: "Trebuchet MS";
+	font-size: 14pt;
+	color:white;
+	font-weight: bold;
+	border-radius: 10px;
+	height: 50px;
+	line-height: 50px;
+	margin-top: 10px;
+	text-indent: 0px;
+	box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+	cursor: pointer;
+}
+
+#navbuttons:hover{
+	background-color:#5cb85c;
+	color:white;
+}
+
+#background{
+	text-align: center;
+	height: 300px;
+	font-family: "Comic Sans MS";
+	color:#fafafa;
+	font-size: 28pt;
+	font-weight: bold;
+	text-align: left;
+	border-radius: 10px;
+	letter-spacing: 3px;
+}
+
+#background2{
+	text-align: center;
+	height: 300px;
+	font-family: "Trebuchet MS";
+	color:#5cb85c;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+	border-radius: 10px;
+}
+
+#contact{
+	border-radius: 10px;
+	border:solid 2px gray;
+	height: 300px;
+	width: 100%;
+	padding:5%;
+	text-align: center;
+}
+
+#lefta{
+	text-align: left;
+}
+
+#lastbar{
+	height: 80px;
+	line-height: 80px;
+	background: #5cb85c;
+	font-size: 13pt;
+	font-family: "Calibri";
+	color:white;
+	text-indent: 20px;
+	letter-spacing: 2px;
+	text-align: center;
+}
+
+#donatebuttons{
+	background: #243340;
+	text-align: center;
+	font-family: "Trebuchet MS";
+	color:white;
+	font-weight: bold;
+	border-radius: 10px;
+	height: 30px;
+	line-height: 30px;
+	text-indent: 0px;
+	box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+	cursor: pointer;
+	margin-left:10px;
+	margin-right: 10px;
+}
+
+#donatebuttons:hover{
+	background-color:#5cb85c;
+	color:white;
+}
+
+#donateshoes{
+	background: #243340;
+	text-align: center;
+	font-family: "Trebuchet MS";
+	color:white;
+	font-weight: bold;
+	border-radius: 10px;
+	height: 30px;
+	line-height: 30px;
+	text-indent: 0px;
+	box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+	cursor: pointer;
+	margin-left:10px;
+	margin-right: 10px;
+	margin-top:30px;
+}
+
+#donateshoes:hover{
+	background-color:#5cb85c;
+	color:white;
+}
